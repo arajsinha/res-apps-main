@@ -15,7 +15,7 @@
         "rimraf": "^5.0.5"
     },
     "devDependencies": {
-        "@sap-ux/eslint-plugin-fiori-tools": "^0.2.0",
+        "@sap-ux/eslint-plugin-fiori-tools": "^0.3.0",
         "@sap/ui5-builder-webide-extension": "^1.1.8",
         "@sap/ux-specification": "UI5-1.120",
         "@sap/ux-ui5-tooling": "1",
